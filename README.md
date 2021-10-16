@@ -8,7 +8,7 @@
 
 ## Contributors Table
 
-## Add your information creating a new row above the last row in the table below!
+## Add your information creating a new row above the last row in the table below
 
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
@@ -36,16 +36,16 @@
 | Nethra Hari                                            | Python                   |
 | Shaman Siddique                                        | Web Devloper             |
 | Karan Heer                                             | Music                    |
-| Ridam Hazra                                            | Data Analysis            |    
+| Ridam Hazra                                            | Data Analysis            |
 | Payoja Muduli                                          | Web Developer            |
 | Md. Almas Ali                                          | Web Developer            |
 | Coding-Boon                                            | Learn Python             |
-| Deepanshu Mittal                                       | Python                   |            
+| Deepanshu Mittal                                       | Python                   |
 | Banshaj Paudel                      | Cybersecurity, IoT, Programming, Automation |
+| Dominic Nshimba                                         | Internet, IoT, Programming, Web |
 | _Your Name_                                            | _Intrests_               |
- 
 
-### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
+### For the README.md file, only the PRs involving changes to the Contributors table would be accepted
 
 > Format for adding name : | _Your Name Here_ | _What do you love?_ |
 
